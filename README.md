@@ -25,7 +25,7 @@ A back-end application for keeping up with products in an E-commerce store.
 * Use insomnia to make get, post, put, and delete requests
 ![step-7](screenshots/step-7.png)
 
-## Contributing
+# Contributing
 
 ## Jonathan Faulkner
 * Javascript
