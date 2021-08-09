@@ -34,4 +34,4 @@ A back-end application for keeping up with products in an E-commerce store.
 ## Links
 [GitHub]https://github.com/JonnyFaulkner/E-commerce_back_end
 
-[video]
+[video]https://drive.google.com/file/d/1X97YMcz7i_drdEoV6DqL8H6RlS399NB0/view
