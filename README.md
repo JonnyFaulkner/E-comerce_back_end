@@ -27,9 +27,9 @@ A back-end application for keeping up with products in an E-commerce store.
 
 ## Contributing
 
-*Jonathan Faulkner
-**Javascript
-**Sequelize
+#Jonathan Faulkner
+*Javascript
+*Sequelize
 
 ## Links
 [GitHub]https://github.com/JonnyFaulkner/E-commerce_back_end
