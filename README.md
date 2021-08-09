@@ -27,7 +27,7 @@ A back-end application for keeping up with products in an E-commerce store.
 
 ## Contributing
 
-# Jonathan Faulkner
+## Jonathan Faulkner
 * Javascript
 * Sequelize
 
